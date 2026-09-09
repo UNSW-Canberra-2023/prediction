@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 def predict():
-
+    """Return a simple rain-prediction message."""
     print("bob threshold 0.5")
     print(2+2)
 
