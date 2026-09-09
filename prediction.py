@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 def predict():
-    print("ada threshold 0.7")
+
+    print("bob threshold 0.5")
     print(2+2)
 
 def rmse(y, yhat):
