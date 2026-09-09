@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+# protection test
 def predict():
     """Return a simple rain-prediction message."""
     print("bob threshold 0.5")
